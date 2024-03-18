@@ -1,0 +1,19 @@
+							Atividade de Poo (C#) 1
+
+Escreva um algoritmo que gere um preço de um carro ao consumidor e os valores pagos de impostos e lucros, sabendo que o custo de fabrica são compostos por:
+
+
+- Valor de fábrica do carro
+
+- Imposto (45% sobre o custo do carro)
+
+- Lucro do distribuidor (12% do custo do carro com os impostos)
+
+Exemplo: Custo de fábrica ou valor de fábrica do carro = 20 000 
+
+	20 000 + (45% 20 000) = 29 000
+		     9 000
+	
+	29 000 + (12% de 29 000) = 32 480
+		     3 480
+
